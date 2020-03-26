@@ -1,0 +1,63 @@
+{
+    "Data": [{
+            "Question": "The following are at high risk of getting COVID-19 except?",
+            "Answers": [
+                "Older Adults",
+                "People who have serious underlying conditions",
+                "Pregnant Women"
+            ],
+            "Wrong": "None of the Above"
+        },
+
+        {
+            "Question": "The following are some of the  symptoms of COVID-19 except?",
+            "Answers": [
+                "Fever",
+                "Cough",
+                "Trouble breathing"
+            ],
+            "Wrong": "Laughing"
+        },
+
+        {
+            "Question": "The following are some of the  symptoms of COVID-19 except?",
+            "Answers": [
+                "Pressure in the chest",
+                "Bluish lips or face",
+                "Inability to arouse"
+            ],
+            "Wrong": "Hissing"
+        },
+
+        {
+            "Question": "The following are steps to protect yourself except?",
+            "Answers": [
+                "Wash your hands often with soap and water for 20 seconds frequently",
+                "Use hand sanitizer that contains at least 60% alcohol ",
+                "Avoid close contact with people who are sick"
+            ],
+            "Wrong": "Touching your face and nose"
+        },
+
+
+        {
+            "Question": "The following are steps to protect yourself except?",
+            "Answers": [
+                "Practise social distance",
+                "Avoid touching your eyes, nose and mouth",
+                "Stay at home"
+            ],
+            "Wrong": "Avoid washing your hands"
+        },
+
+        {
+            "Question": "The following are steps to protect others except?",
+            "Answers": [
+                "Cover your mouth and nose with a tissue when you cough or sneeze or use your elbow",
+                "Wear a face mask if you are sick.",
+                "Stay at home"
+            ],
+            "Wrong": "Shaking hands"
+        }
+    ]
+}
